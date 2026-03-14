@@ -1,6 +1,6 @@
 package testPack;
 
-public class FirstPrgm {
+public class SecondProgram {
 
 	public static void main(String[] args) 
 	{
